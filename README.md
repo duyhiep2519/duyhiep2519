@@ -105,7 +105,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=duyhiep2519&show_icons=true&locale=en&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=duyhiep2519&show_icons=true&locale=en&theme=tokyonight&hide=stars"
     alt="duyhiep2519"
   />
 </p>
