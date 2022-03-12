@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm duyhiep2519</h1>
+<h1 align="center">:four_leaf_clover: duyhiep2519 :four_leaf_clover:</h1>
 <h3 align="center">A web developer</h3>
 
 - 📫 How to reach me **duyhiep2519@gmail.com**
@@ -25,6 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
