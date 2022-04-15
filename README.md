@@ -1,5 +1,5 @@
 <h1 align="center">:four_leaf_clover: duyhiep2519 :four_leaf_clover:</h1>
-<h3 align="center">A web developer</h3>
+<h3 align="center">Web developer</h3>
 
 - 📫 How to reach me **duyhiep2519@gmail.com**
 
